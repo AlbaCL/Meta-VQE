@@ -1,0 +1,9 @@
+Model:  XXZex
+Ansatz for encoding and variational circuits:  PQC ,  PQC
+qubits =  10
+layers [encoding, variational circuit] =  [2, 2]
+training points =  20
+test points =  100
+equispaced train and test =  True ,  False
+Optimization options:  BFGS ,  2-point ,  qulacs , lr =  0.01 , other:  {'finite_diff_rel_step': 0.0001}
+Test VQE, metaVQE no encoding, VQE initialization with metaVQE with and without encoding:  True ,  True ,  True ,  True
