@@ -1,0 +1,8 @@
+Variable counting: number of optimization variables
+Meta-VQE training:  168
+Meta-VQE test:  168
+Standard VQE:  112
+meta-VQE no encoding train 112
+meta-VQE no encoding test:  112
+Standard VQE (with encoding) with metaVQE initialization:  168
+Standard VQE with metaVQE no encoding initialization:  112
