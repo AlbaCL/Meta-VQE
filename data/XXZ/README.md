@@ -4,7 +4,15 @@ This folder contains the data obtained from a simulation of a 1D antiferromagnet
 
 Each subfolder contains the data for X qubits (`nqub_X`) and 2 encoding and processing layers. For those algorithms with no encoding layers, we considered 2+2 processing layers (same circuit depth).
 
-The label code of the `.txt` files is the following:
+The data of the `.txt` result files is ordered in columns:
+
+
+| &Delta; | Exact value | Algorithm value | Absolute error |
+|:------|:------|:------|:------|
+| | | | | 
+
+
+The title of the `.txt` files corresponds to:
 
 - `basic_data_seed_matterlab_lam075.txt`: details of the simulation contained in the folder.
 - `variable_counting_seed_matterlab_lam075.txt`: total number of optimized variables for each algorithm.
