@@ -2,6 +2,6 @@
 import setuptools
 
 setuptools.setup(
-    install_requires= ['tequila @ git+https://github.com/aspuru-guzik-group/tequila.git@master-setup-fix#egg=tequila' ]
+    install_requires= ['tequila @ git+https://github.com/aspuru-guzik-group/tequila.git@master#egg=tequila' ]
 )
 
