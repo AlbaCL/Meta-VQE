@@ -12,5 +12,5 @@ __Dependencies:__
 
 You will need `tequila` to run the notebooks.  
 Just follow the instructions on the [github page](https://github.com/aspuru-guzik-group/tequila).
-If you are using Linux you can clone this repository and run `pip install .` to install `tequila` form the `setup.py` provided here.  
-If you are using Mac you probably need to install the `qulacs` simulator manually (or alternatively any other suported quantum backend) -- see the `tequila` [github page](https://github.com/aspuru-guzik-group/tequila). 
+If you are using Linux, you can clone this repository and run `pip install .` to install `tequila` form the `setup.py` file provided here.  
+If you are using Mac or Windows, you probably need to install the `qulacs` simulator manually (or alternatively any other suported quantum backend) -- see the `tequila` [github page](https://github.com/aspuru-guzik-group/tequila). 
