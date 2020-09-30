@@ -1,6 +1,6 @@
 # Meta-VQE
 
-This is the repository for the article (Ref.).
+This is the repository for the article "The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation", Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik, [arXiv:2009.13545[quant-ph]](https://arxiv.org/abs/2009.13545).
 
 __Content:__
 
