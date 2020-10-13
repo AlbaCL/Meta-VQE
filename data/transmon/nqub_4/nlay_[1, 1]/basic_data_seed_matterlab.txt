@@ -1,0 +1,6 @@
+qubits =  4
+layers [encoding, variational circuit] =  [1, 1]
+training points =  10
+test points =  50
+equispaced train and test =  True ,  True
+Optimization options:  BFGS ,  2-point ,  qulacs , lr =  0.01 , other:  {'finite_diff_rel_step': 0.0001, 'maxiter': 200}

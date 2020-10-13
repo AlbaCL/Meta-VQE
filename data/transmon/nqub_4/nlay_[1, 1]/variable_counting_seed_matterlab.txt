@@ -1,0 +1,6 @@
+Variable counting: number of optimization variables
+Meta-VQE training:  38
+Meta-VQE test:  38
+Standard VQE:  30
+Standard VQE smart:  38
+opt-meta-VQE:  38

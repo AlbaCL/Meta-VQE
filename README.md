@@ -7,7 +7,8 @@ __Content:__
 * `data` folder: contains all data presented in the main article.
 * `img` folder: contains the plots of the main article and other plots generated with the available data.
 * `Meta-VQE` demo: jupyter notebook with the source code used to run the simulations. 
-* `Molecular-Meta-VQE` demo: An explcit illustration of a non-linear meta-VQE for molecules as described in the article
+* `Molecular-Meta-VQE` demo: An explicit illustration of a non-linear meta-VQE for molecules as described in the article.
+* `transmon`: main code to obtain the results for the single-transmon simulation.
 
 __Dependencies:__
 

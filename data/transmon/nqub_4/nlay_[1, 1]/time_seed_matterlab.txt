@@ -1,0 +1,4 @@
+meta VQE (test+training):  7.3641571799914045  min.
+VQE (training points):  3.0173523823420205  min.
+VQE with encoding (training points):  3.07886639436086  min.
+opt-meta-VQE (training points):  3.3124189615249633  min.
